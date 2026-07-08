@@ -1,6 +1,6 @@
 # Hi, I'm Ashikur Rahman 👋
 
-💻 Frontend Web Developer
+💻 Full Stack Web Developer
 
 ## Skills
 - HTML
