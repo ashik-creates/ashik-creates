@@ -1,3 +1,5 @@
+![Full Stack Developer Banner](banner.png)
+
 # Hi, I'm Ashikur Rahman 👋
 
 💻 Full Stack Web Developer
