@@ -53,15 +53,6 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
 </div>
 
 <div align="center">
-  <a href="https://github.com/ashik-creates/">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashik-creates&show_icons=true&theme=dark&hide_border=true&bg_color=0e1118&title_color=9C27B0&icon_color=E91E63" width="490" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/ashik-creates/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=dark&hide_border=true&bg_color=0e1118&title_color=9C27B0" width="350" alt="Coding Language Stats">
-  </a>
-</div>
-
-<div align="center">
   <a href="#">
     <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=E91E63&height=3&section=header">
   </a>
