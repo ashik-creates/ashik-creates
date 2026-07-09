@@ -65,4 +65,8 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=github_dark&hide_border=true&hide_progress=true)
+<div align="center">
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashik-creates&size_weight=0.5&count_weight=0.5)
+
+</div>
