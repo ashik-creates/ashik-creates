@@ -39,10 +39,42 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
 ---
 
 ## 📊 Relevant GitHub Stats
-| Contributions & Activity | Most Used Languages | Current Streak Data |
-| :---: | :---: | :---: |
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik-creates&show_icons=true&theme=github_dark&hide_border=true&bg_color=0E1118)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=github_dark&hide_border=true&bg_color=0E1118)
+<div align="center">
+  <a href="https://github.com/ashik-creates/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-creates&bg_color=0e1118&hide_border=true&custom_title=Ashikur's%20Contribution%20Graph&area=true&area_color=9C27B0&title_color=E91E63&line=9C27B0&point=E91E63&theme=high-contrast" width="800" alt="Contribution Graph">
+  </a>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashik-creates&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true)
+<div align="center">
+  <a href="#">
+    <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=3&section=header">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashik-creates/">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashik-creates&show_icons=true&theme=dark&hide_border=true&bg_color=0e1118&title_color=9C27B0&icon_color=E91E63" width="490" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/ashik-creates/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=dark&hide_border=true&bg_color=0e1118&title_color=9C27B0" width="350" alt="Coding Language Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=E91E63&height=3&section=header">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashik-creates/">
+    <img src="https://streak-stats.demolab.com/?user=ashik-creates&theme=dark&hide_border=true&background=0E1118&ring=9C27B0&fire=E91E63&currStreakLabel=E91E63&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="Streak Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header">
+  </a>
+</div>
