@@ -46,11 +46,6 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
   </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=3&section=header">
-  </a>
-</div>
 
 <div align="center">
   <a href="#">
