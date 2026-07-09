@@ -41,5 +41,8 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
 ## 📊 Relevant GitHub Stats
 | Contributions & Activity | Most Used Languages | Current Streak Data |
 | :---: | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik-creates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=tokyonight&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=ashik-creates&theme=tokyonight&hide_border=true) |
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashik-creates&show_icons=true&theme=github_dark&hide_border=true&bg_color=0E1118)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-creates&layout=compact&theme=github_dark&hide_border=true&bg_color=0E1118)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashik-creates&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true)
