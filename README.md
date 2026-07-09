@@ -34,7 +34,8 @@ I am a dedicated Full Stack Web Developer specializing in creating robust, scala
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashik-creates)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashik-creates)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ashikorrahman2)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ashikorrahman2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashikorrahman8900@gmail.com)
 
 ---
 
